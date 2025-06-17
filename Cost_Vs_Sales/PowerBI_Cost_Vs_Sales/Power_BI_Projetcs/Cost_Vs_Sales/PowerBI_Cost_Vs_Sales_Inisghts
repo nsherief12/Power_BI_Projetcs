@@ -1,0 +1,39 @@
+📊 Key Insights – Cost vs Sales Power BI Report
+This dashboard presents a detailed financial analysis of sales performance across store types, departments, and locations, highlighting key operational metrics like total rent, wages, margins, and target achievement.
+
+📈 Executive Summary:
+Total Sales YTD: $810M
+Total Gross Margin: $448.1M
+Overall Goal Achieved: +8.02% above target
+
+🏬 Sales Breakdown:
+Top Store Types by Sales:
+Core: ~$206M
+Digital: ~$127M
+Local: ~$104M
+Top Departments by Sales:
+Clothing: Highest across all store types
+Electronics, Kitchen, and Garage also performed strongly
+
+🗺️ Sales by Location:
+Top-performing states by sales:
+Texas: $44.4M (+$5.3M over target)
+Connecticut: $35.3M (+$6.1M over target)
+Oregon: $26.2M (+$6.2M over target)
+
+Underperforming states:
+New York: -$2.9M vs target
+Nevada: -$2.2M
+Oklahoma: -$3.6M
+
+🧾 Cost Analysis:
+Total Rent: Ranged up to ~$9M per store
+Store Sizes: Mostly between 50K–200K sqft
+Wage Costs: Distributed across states, highest in Texas, Connecticut, and Indiana
+
+🎯 Insights:
+Core stores outperform digital/local across most departments.
+Some high-wage states still meet targets due to strong sales (e.g., Connecticut, Texas).
+Opportunity to optimize in underperforming locations despite high wages (e.g., Oklahoma, New York).
+Gross margins remain strong overall, highlighting cost efficiency.
+
