@@ -1,41 +1,31 @@
 📊 Adventure Works Sales Dashboard – Insights Summary
-This Power BI report provides a year-over-year (YOY) sales performance analysis by product, category, and region for the Adventure Works dataset.
+This Power BI report provides a year-over-year (YOY) sales performance analysis by product, category, 
+and region for the Adventure Works dataset.
 
 🧾 Key Highlights
 Total Sales: $1.15M
-
 Top Product: Road-150 Bike – $604K (52% of total sales)
-
 Best Year: 2015 – $703K (✅ Target Met)
-
 Worst Year: 2016 – $196K (❌ Target Missed)
-
 Recovery in 2017: $251K (✅ Target Met)
 
 🛒 Sales by Category
 Bikes: $799K (70%)
-
 Accessories: $266K
-
 Clothing: $86K
 
 🌍 Top Performing Regions
 Australia: $293K
-
 Southwest: $240K
-
 Canada: $192K
 
 👥 Customer Engagement (by Country)
 USA: 8.7K purchases – $433K sales
-
 Australia: 6.1K purchases – $293K sales
 
 📈 Observations
 Significant sales drop in 2016, followed by a rebound in 2017.
-
 Bikes, particularly road models, dominate revenue.
-
 USA and Australia are key markets by both revenue and volume.
 
 
