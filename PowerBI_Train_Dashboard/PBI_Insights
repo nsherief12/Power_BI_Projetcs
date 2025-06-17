@@ -1,0 +1,36 @@
+# 🚄 Power BI Train Dashboard
+
+This interactive Power BI report provides a complete overview of sales, shipping performance, and order trends across multiple years and regions.
+
+---
+
+## 🔍 Highlights
+
+- 📈 Total Sales: `$4.52M`
+- 🧾 Total Orders: `9,800`
+- 🗓️ Strong YOY growth: 2015 → 2018 = +50%
+- 🏆 Top State: `California` ($446K)
+
+---
+
+## 📦 Category Breakdown
+
+- 🛠️ Technology: `$827K`
+- 🪑 Furniture: `$728K`
+- 📎 Office Supplies: `$705K`
+
+---
+
+## 🚚 Shipping Overview
+
+| Ship Mode      | Avg Delivery Time |
+|----------------|-------------------|
+| Same Day       | 0 days            |
+| First Class    | 1–3 days          |
+| Second Class   | 2–3 days          |
+| Standard Class | 4–5 days          |
+
+---
+
+## 📁 File
+
